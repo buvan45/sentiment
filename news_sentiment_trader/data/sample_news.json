@@ -1,0 +1,69 @@
+{
+  "TSLA": [
+    {
+      "title": "Tesla beats earnings expectations and raises production guidance",
+      "description": "Tesla reported record quarterly profits and announced plans to ramp up production in multiple factories.",
+      "source": "Sample Finance News",
+      "published_at": "2024-10-01T10:30:00Z",
+      "url": "https://example.com/tesla-earnings"
+    },
+    {
+      "title": "Tesla faces minor delays in delivery due to supply chain issues",
+      "description": "Some deliveries are expected to be pushed to next quarter, but management remains optimistic.",
+      "source": "Sample Finance News",
+      "published_at": "2024-10-01T12:45:00Z",
+      "url": "https://example.com/tesla-delays"
+    }
+  ],
+
+  "INFY": [
+    {
+      "title": "Infosys signs multi-billion dollar deal with a US healthcare company",
+      "description": "The long-term contract is expected to significantly boost Infosys' revenue visibility.",
+      "source": "Tech Business Daily",
+      "published_at": "2024-10-02T09:15:00Z",
+      "url": "https://example.com/infosys-deal"
+    },
+    {
+      "title": "Analysts remain cautious as Infosys margins stay under pressure",
+      "description": "Rising employee costs and competition continue to challenge profitability.",
+      "source": "Tech Business Daily",
+      "published_at": "2024-10-02T11:00:00Z",
+      "url": "https://example.com/infosys-margins"
+    }
+  ],
+
+  "AAPL": [
+    {
+      "title": "Apple launches new iPhone model with improved camera and battery life",
+      "description": "Early reviews suggest strong consumer interest and high pre-order volumes.",
+      "source": "Global Markets News",
+      "published_at": "2024-10-03T08:00:00Z",
+      "url": "https://example.com/apple-iphone"
+    },
+    {
+      "title": "Apple faces lawsuit over alleged App Store monopoly practices",
+      "description": "Regulators are increasing scrutiny on Apple's App Store fees and policies.",
+      "source": "Global Markets News",
+      "published_at": "2024-10-03T13:20:00Z",
+      "url": "https://example.com/apple-lawsuit"
+    }
+  ],
+
+  "HDFCBANK": [
+    {
+      "title": "HDFC Bank reports strong loan growth and stable asset quality",
+      "description": "The bank's quarterly results exceeded market expectations on key metrics.",
+      "source": "India Finance Today",
+      "published_at": "2024-10-04T10:00:00Z",
+      "url": "https://example.com/hdfcbank-results"
+    },
+    {
+      "title": "RBI asks HDFC Bank to improve its digital infrastructure",
+      "description": "The regulator highlighted the need for stronger resilience in online banking systems.",
+      "source": "India Finance Today",
+      "published_at": "2024-10-04T14:30:00Z",
+      "url": "https://example.com/hdfcbank-rbi"
+    }
+  ]
+}
